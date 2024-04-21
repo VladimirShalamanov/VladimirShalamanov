@@ -35,6 +35,14 @@
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Visualization/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Testing/mochajs-icon.svg" alt="Mochajs" width="40" height="40"/>
 
+  <h3>⚡Activity Graph:</h3>
+  
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladimirShalamanov&theme=react" height="200em" />
+  
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=VladimirShalamanov&theme=react"/>
+  
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
 </section>
 
 
